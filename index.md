@@ -8,7 +8,7 @@ This is a package
 
 > ## Prerequisites
 >
-> * Fixme
+> Basics of C++, Python, Shell, ROOT 
 {: .prereq}
 
 
