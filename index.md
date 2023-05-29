@@ -8,7 +8,10 @@ This is a package
 
 > ## Prerequisites
 >
-> Basics of C++, Python, Shell, ROOT 
+> Basics of Shell (see e.g., https://swcarpentry.github.io/shell-novice/)
+> Basics C++ (see e.g., https://hsf-training.github.io/hsf-training-cpp-webpage/) 
+> Python (see e.g., http://swcarpentry.github.io/python-novice-inflammation)
+> ROOT  (Usage of TRandom Function)
 {: .prereq}
 
 
