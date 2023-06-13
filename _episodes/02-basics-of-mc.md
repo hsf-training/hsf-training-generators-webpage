@@ -1,5 +1,5 @@
 ---
-title: "Basics of Monte Carlo Methods"
+title: "Introduction to Monte Carlo Integration Techniques"
 teaching: 30
 exercises: 5
 questions:
