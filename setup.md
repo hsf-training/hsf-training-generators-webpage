@@ -11,5 +11,3 @@ Once docker is installed download the following docker images which contains all
 ```code
 docker pull <options><file>
 ```
-
-

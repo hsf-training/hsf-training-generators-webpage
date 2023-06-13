@@ -14,7 +14,7 @@
 > Click [here](https://hsf-training.github.io/hsf-training-monte-carlo-generators-webpage/) for the training website!
 
 
-Monte Carlo Event Generator (MCEG) play an essential in LHC analysis as well as in planning of Future Colliders. In this lesson we aim to introduce the basics involved in the event generators. In order to understand the essential ideas behind the MCEG and not just employ these tools as ``black box" we provide a tutorial on how one can make their own MC generator. We also demonstrate how to use some of the well known packages like Madgraph, Pythia and Whizard to calculate cross sections as well as generate events. Finally as optional episode we overview the Machine Learning techniques that could be used to generate events at LHC.  
+Monte Carlo Event Generator (MCEG) play an essential in LHC analysis as well as in planning of Future Colliders. In this lesson we aim to introduce the basics involved in the event generators. In order to understand the essential ideas behind the MCEG and not just employ these tools as ``black box" we provide a tutorial on how one can make their own MC generator. We also demonstrate how to use some of the well known packages like Madgraph, Pythia and Whizard to calculate cross sections as well as generate events. Finally as optional episode we overview the Machine Learning techniques that could be used to generate events at LHC.
 
 ## 📅 Past events and videos
 
