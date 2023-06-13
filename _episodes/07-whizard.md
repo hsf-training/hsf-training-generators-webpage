@@ -1,5 +1,5 @@
 ---
-title: "(Optional) Lepton Collider Event Generator: Whizard"
+title: "Lepton Collider Event Generator: Whizard"
 teaching: 30
 exercises: 5
 questions:
