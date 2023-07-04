@@ -1,5 +1,5 @@
 ---
-title: "Making your own monte carlo event generator"
+title: "How to make your own Monte Carlo Event Generator"
 teaching: 30
 exercises: 5
 questions:

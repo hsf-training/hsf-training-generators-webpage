@@ -1,5 +1,5 @@
 ---
-title: "Summary and further exercises"
+title: "Summary"
 teaching: 20
 exercises: 20
 questions:
