@@ -9,10 +9,8 @@ Monte Carlo Event Generator (MCEG) play an essential in LHC analysis as well as 
 
 > ## Prerequisites
 >
-> Basics of Shell (see e.g., https://swcarpentry.github.io/shell-novice/)
-> Basics C++ (see e.g., C++ Essentials course here https://github.com/hsf-training/cpluspluscourse) 
-> Python (see e.g., http://swcarpentry.github.io/python-novice-inflammation)
-> ROOT 
+> - Basics of Shell (see e.g., https://swcarpentry.github.io/shell-novice/)
+> - Python (see e.g., http://swcarpentry.github.io/python-novice-inflammation)
 {: .prereq}
 
 
