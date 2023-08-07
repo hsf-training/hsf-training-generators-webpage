@@ -22,7 +22,3 @@ While docker installation is encouraged for the tutorial, one may also install t
 
 - Madgraph_aMC@NLO [website](https://launchpad.net/mg5amcnlo)
 - Pythia8 [website](https://pythia.org/)
-
-
-
-
