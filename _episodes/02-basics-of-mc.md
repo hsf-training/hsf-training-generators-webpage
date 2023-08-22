@@ -20,7 +20,7 @@ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 
 ## (Pseudo) Random Numbers:
 
-Random numbers are a sequence of numbers $$r_1, r_2, ...r_N$$ such that there are no correlations between $r_i$ and $r_j$$, where $$i,j \in N$$. However, computationally, it is not possible to define a sequence of truly random numbers.  One may define pseudorandom numbers on a computer using for example the following equation:
+Random numbers are a sequence of numbers $$r_1, r_2, ...r_N$$ such that there are no correlations between $$r_i$$ and $$r_j$$, where $$i,j \in N$$. However, computationally, it is not possible to define a sequence of truly random numbers.  One may define pseudorandom numbers on a computer using for example the following equation:
 
 $$r_{i+1} = (a r_{i} + c)~ mod(M)$$
 
