@@ -11,6 +11,10 @@ keypoints:
 
 ---
 
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
 We may make use of the following papers/softwares to develop this episode. 
 

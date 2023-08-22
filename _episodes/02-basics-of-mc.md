@@ -12,14 +12,19 @@ keypoints:
 
 ---
 
+<!-- Mathjax Support -->
+<script type="text/javascript" async
+src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 
 ## (Pseudo) Random Numbers:
 
-Random numbers are a sequence of numbers $r_1, r_2, ...r_N$ such that there are no correlations between $r_i$ and $r_j$, where $i,j \in N$. However, computationally, it is not possible to define a sequence of truly random numbers.  One may define pseudorandom numbers on a computer using for example the following equation:
+Random numbers are a sequence of numbers $$r_1, r_2, ...r_N$$ such that there are no correlations between $r_i$ and $r_j$$, where $$i,j \in N$$. However, computationally, it is not possible to define a sequence of truly random numbers.  One may define pseudorandom numbers on a computer using for example the following equation:
 
 $$r_{i+1} = (a r_{i} + c)~ mod(M)$$
 
-such that $r_{1}$ is a number provided by the user and referred to as "seed". The following python code shows how one may generate their own random numbers (using the linear congruent algorithm):
+such that $$r_{1}$$ is a number provided by the user and referred to as "seed". The following python code shows how one may generate their own random numbers (using the linear congruent algorithm):
 
 
 ```python
@@ -50,7 +55,7 @@ random.random()
 
 ## Monte Carlo Inegration Technique
 
-In order to use the Monte Carlo Integration technique, we use the following observation that an integral $\int_{a}^{b} f(x) dx$ can be written as $\frac{b-a}{N} \Sigma_{i=1}^{N} f(x_i)$, where x_i belong to the phase space over which the integration is carried out. The following is the python implementation of the technique where we integrate the $f(x) = 2x$ with b = 1, a = 0.
+In order to use the Monte Carlo Integration technique, we use the following observation that an integral $$\int_{a}^{b} f(x) dx$$ can be written as $$\frac{b-a}{N} \Sigma_{i=1}^{N} f(x_i)$$, where $$x_i$$ belong to the phase space over which the integration is carried out. The following is the python implementation of the technique where we integrate the $$f(x) = 2x$$ with b = 1, a = 0.
 
 ```python
 import random
