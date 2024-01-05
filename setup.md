@@ -15,7 +15,7 @@ docker pull <options><file>
 
 ## Local Installation
 
-While docker installation is encouraged for the tutorial, one may also install these software locally by visting the official webpages and installing software as per instructions provided.
+While docker installation is encouraged for the tutorial, one may also install these software locally by visiting the official webpages and installing software as per instructions provided.
 
 
 ### Madgraph_aMC@NLO

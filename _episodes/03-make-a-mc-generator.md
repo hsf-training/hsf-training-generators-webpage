@@ -16,13 +16,13 @@ keypoints:
 src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-We may make use of the following papers/softwares to develop this episode.
+We may make use of the following papers/software to develop this episode.
 
 * Papers:
     1. A. Papaefstathiou, How-to: write a parton-level Monte Carlo particle physics event generator. Eur. Phys. J. Plus 135, 497 (2020).
     2. A. Desai, Monte Carlo Event Generator for the ABC Model (Pre-print), https://zenodo.org/record/8181098.
 
-* Softwares:
+* Software:
 
   1. A. Desai, [CompScat](https://github.com/amanmdesai/compscat) MC Event Generator for the Compton Scattering
   2. A. Desai, [pymcabc](https://github.com/amanmdesai/pymcabc) MC Event Generator for the ABC Model
