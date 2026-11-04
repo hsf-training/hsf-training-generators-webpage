@@ -5,13 +5,13 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/hsf-training-monte-carlo-generators-webpage/main.svg)](https://results.pre-commit.ci/latest/github/hsf-training/hsf-training-monte-carlo-generators-webpage/main)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/hsf-training-generators-webpage/master.svg)](https://results.pre-commit.ci/latest/github/hsf-training/hsf-training-generators-webpage/master)
 [![pages-build-deployment](https://github.com/hsf-training/hsf-training-monte-carlo-generators-webpage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hsf-training/hsf-training-monte-carlo-generators-webpage/actions/workflows/pages/pages-build-deployment)
 
 # Monte Carlo Event Generators in HEP
 
 > **Note**
-> Click [here](https://hsf-training.github.io/hsf-training-monte-carlo-generators-webpage/) for the training website!
+> Click [here](https://hsf-training.github.io/hsf-training-generators-webpage/) for the training website!
 
 
 Monte Carlo Event Generator (MCEG) play an essential in LHC analysis as well as in planning of Future Colliders. In this lesson we aim to introduce the basics involved in the event generators. In order to understand the essential ideas behind the MCEG and not just employ these tools as ``black box" we provide a tutorial on how one can make their own MC generator. We also demonstrate how to use some of the well known packages like Madgraph, Pythia and Whizard to calculate cross sections as well as generate events. Finally as optional episode we overview the Machine Learning techniques that could be used to generate events at LHC.
@@ -82,10 +82,10 @@ Instead, all regular contributors are listed on our [HSF Training Community page
 [hsf-training-center]: https://hepsoftwarefoundation.org/training/curriculum.html
 [training-center-badge]: https://img.shields.io/badge/HSF%20Training%20Center-browse-ff69b4
 [schools]: https://hepsoftwarefoundation.org/Schools/events.html
-[issues]: https://github.com/hsf-training/hsf-training-monte-carlo-generators-webpage/issues
+[issues]: https://github.com/hsf-training/hsf-training-generators-webpage/issues
 [progit]: http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project
 [jekyll]: https://jekyllrb.com/
-[allcontrib-emoji-key]: https://allcontributors.org/docs/en/emoji-key
+[allcontrib-emoji-key]: https://allcontributors.org/en/reference/emoji-key/
 [gfi-badge]: https://img.shields.io/badge/-good%20first%20issue-gold.svg
 [schools-badge]: https://img.shields.io/badge/upcoming%20events-browse-ff69b4
 [twitter-badge]: https://img.shields.io/twitter/follow/hsftraining?style=social
