@@ -1,0 +1,6 @@
+# Carried over from the old mlc_config.json: Twitter/X blocks bots.
+^https://twitter\.com
+# Known broken links, left for the lesson maintainers to decide on
+# (see hsf-training/hsf-training-ai-maintenance#4).
+# pages-build-deployment badge in README.md: the repo has no such workflow.
+https://github\.com/hsf-training/hsf-training-monte-carlo-generators-webpage/actions/workflows/pages/pages-build-deployment
