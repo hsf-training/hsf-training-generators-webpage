@@ -1,0 +1,2 @@
+# Carried over from the old mlc_config.json: Twitter/X blocks bots.
+^https://twitter\.com
