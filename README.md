@@ -6,7 +6,6 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/hsf-training-generators-webpage/master.svg)](https://results.pre-commit.ci/latest/github/hsf-training/hsf-training-generators-webpage/master)
-[![pages-build-deployment](https://github.com/hsf-training/hsf-training-monte-carlo-generators-webpage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hsf-training/hsf-training-monte-carlo-generators-webpage/actions/workflows/pages/pages-build-deployment)
 
 # Monte Carlo Event Generators in HEP
 
